@@ -1,2 +1,2 @@
-# Virus-Overwiew-
-General idea how viruses may attach to files 
+# Virus-Overwiew
+General idea how viruses may attach itself to files 
